@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Book Reading List.md",
+                "file": "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 1 - On Risk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Book Reading List"
+              "title": "Major Axiom 1 - On Risk"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 215.51388835906982
   },
   "right": {
     "id": "c23b2d328501ee5d",
@@ -211,11 +211,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "28344eacb9bbaca2",
+  "active": "c7b508307f3427c8",
   "lastOpenFiles": [
+    "Personal/Book Reading List.md",
+    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 1 - On Risk.md",
+    "Personal/Finance/The Zurich Axioms/Untitled",
+    "Personal/Finance/The Zurich Axioms - Max Gunther",
     "Personal/Finance/Fixed Income Securities - Tuckman and Serrat",
     "Personal/Finance/Fixed Income Securities - Tuckman and Serrat.md",
-    "Personal/Book Reading List.md",
     "Personal/Finance",
     "Weightlifting/Ratios/Clean & Jerk Ratios.md",
     "USC/CSCI 430/7. Denial of Service.md",
@@ -246,9 +249,6 @@
     "ML in Finance/Guided Tour of Machine Learning in Finance/1. Artificial Intelligence and Machine Learning.md",
     "USC/ITP 359",
     "USC/CSCI 201",
-    "USC/ITP 259",
-    "USC/Year 2",
-    "USC/Year 2/Year 2 Sem 2",
     "Pasted image 20240403010300.png",
     "Pasted image 20240403000746.png",
     "Pasted image 20240402234913.png",
