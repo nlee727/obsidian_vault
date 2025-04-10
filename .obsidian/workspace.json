@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Hello.md",
+                "file": "Personal/Book Recommendation List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hello"
+              "title": "Book Recommendation List"
             }
           }
         ]
@@ -213,8 +213,8 @@
   },
   "active": "c7b508307f3427c8",
   "lastOpenFiles": [
+    "Personal/Book Recommendation List.md",
     "Weightlifting/Ratios/Clean & Jerk Ratios.md",
-    "Personal/Hello.md",
     "USC/CSCI 430/7. Denial of Service.md",
     "Personal",
     "USC/CSCI 430/HW3.md",

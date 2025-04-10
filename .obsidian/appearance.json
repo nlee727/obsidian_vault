@@ -1,6 +1,9 @@
 {
-  "accentColor": "",
+  "accentColor": "#4c73e6",
   "theme": "obsidian",
-  "cssTheme": "Things",
-  "baseFontSize": 12
+  "cssTheme": "Terminal",
+  "baseFontSize": 12,
+  "textFontFamily": "Consolas",
+  "interfaceFontFamily": "Consolas,Franklin Gothic",
+  "baseFontSizeAction": false
 }
