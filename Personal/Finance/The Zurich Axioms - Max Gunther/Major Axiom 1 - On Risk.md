@@ -5,7 +5,7 @@ Escaping worry is paramount. Most people grasp at security as though it were the
 ### Income as Support
 The economic structure of the world is rigged against you (wage and income cannot be the main pillar of support unless it means getting through life without having to beg for food)
 - Frank Henry's rule of thumb - Only $\frac{1}{2}$ of one's financial energies should be devoted to job income. The other half ought to go into investment and speculation.
-Of course you stand to lose, however as an ordinary tax-hounded, inflation-raddles American income-earner, what real difference does it make if you get a bit poorer while trying to get richer? An adventure is guaranteed, with the potential for gain much higher than the potential loss - **This is the game that is rigged in your favor**.
+Of course you stand to lose. However as an ordinary tax-hounded, inflation-raddles American income-earner, what real difference does it make if you get a bit poorer while trying to get richer? An adventure is guaranteed, with the potential for gain much higher than the potential loss - **This is the game that is rigged in your favor**.
 
 There is no difference between speculation and investing. Its like the difference between luncheon and lunch. You get the same sandwich - the only difference is in the impression somebody wants to make
 
@@ -26,4 +26,4 @@ There are 3 major flaws with diversification
 That is not to say only focus on one thing at a time. 3 good speculations, maybe 4+. This is a matter of personal preference and individual thinking habits. Its all about the number you can effectively handle. The point is to not diversify for the point of diversifying.
 
 ### Speculative Strategy
-Put your money at risk. Don't be afraid of getting hurt a little. By being willing to face it
+Put your money at risk. Don't be afraid of getting hurt a little. By being willing to face it, you give yourself the only realistic chance you have of rising above the great unrich, and the price you pay for this glorious chance is a state of worry. However, this state is not the sickness modern psychology believes it to be, rather it is the lively essence of life - an adventure. 
