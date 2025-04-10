@@ -1,0 +1,1 @@
+Pagan culture was eroded by Christianity's takeover. Monuments were destroyed as they tried to eradicate everything. 

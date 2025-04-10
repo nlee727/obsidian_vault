@@ -1,0 +1,15 @@
+- Check, Raising on a paired flop
+	- Rec players love to slow play big hands
+- Talking too much - if somebody gets silent, they are usually strong
+- Acting too quickly on the flop
+	- Most people with a strong hand will think about it for a while
+- Raise Flop percentage is 20%
+	- Nobody can have a strong hand all that often
+- 3Bet percentage by position
+- The hand they are representing does not match their raise
+- Story doesn't make any sense - Check/Call the whole way vs a loose aggressive
+- Fish on Tilt
+	- Call them down, never raise
+- Larger than normal bet sizing
+- Looks you right in the eye
+	- Acts strong when weak, act weak when strong
