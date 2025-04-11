@@ -1,3 +1,4 @@
+#finance #takingprofit
 *Always take your profit too soon. Conquering greed will make you a better speculator than 99 percent of other men and women scrambling after wealth.*
 #### Greed
 Greed, defined in this context as excessive acquisitiveness (wish to improve one's material well being): wanting more than you came in for or more than you have a right to expect. Akin to losing control of your desire.

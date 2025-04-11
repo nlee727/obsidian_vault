@@ -148,4 +148,3 @@ for some scalar $\lambda$
 ___
 Strategy to find ABS Max and Min values of
 
-

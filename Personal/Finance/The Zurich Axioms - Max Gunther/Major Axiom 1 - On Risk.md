@@ -1,3 +1,4 @@
+#risk #finance
 *Worry is not a sickness but a sign of health. If you are not worried, you are not risking enough.*
 ### Security
 Escaping worry is paramount. Most people grasp at security as though it were the most important thing in the world, however adventure is what makes life worth living. The only way to have an adventure is to expose yourself to risk. 
