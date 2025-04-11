@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 2 - On Greed.md",
+                "file": "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 4 - On Forecasts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Major Axiom 2 - On Greed"
+              "title": "Major Axiom 4 - On Forecasts"
             }
           }
         ]
@@ -213,8 +213,9 @@
   },
   "active": "c7b508307f3427c8",
   "lastOpenFiles": [
-    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 1 - On Risk.md",
     "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 2 - On Greed.md",
+    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 1 - On Risk.md",
+    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 4 - On Forecasts.md",
     "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 3 - On Hope.md",
     "LaTeX Practice.md",
     "USC/ECON 357/Chapter 15.md",
@@ -245,7 +246,6 @@
     "Web3/Aptos.md",
     "USC/ITP 359/4. Autoencoder.md",
     "USC/ITP 359/3. Unsupervised ML.md",
-    "USC/CSCI 430/HW 1.md",
     "USC/CSCI 430",
     "USC/ITP 359",
     "USC/CSCI 201",
