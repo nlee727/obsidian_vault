@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 1 - On Risk.md",
+                "file": "USC/ECON 357/Chapter 15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Major Axiom 1 - On Risk"
+              "title": "Chapter 15"
             }
           }
         ]
@@ -213,8 +213,9 @@
   },
   "active": "c7b508307f3427c8",
   "lastOpenFiles": [
-    "Personal/Book Reading List.md",
     "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 1 - On Risk.md",
+    "USC/ECON 357/Chapter 15.md",
+    "Personal/Book Reading List.md",
     "Personal/Finance/The Zurich Axioms/Untitled",
     "Personal/Finance/The Zurich Axioms - Max Gunther",
     "Personal/Finance/Fixed Income Securities - Tuckman and Serrat",
@@ -246,7 +247,6 @@
     "USC/CSCI 430/1. Introduction, Threats, Challenges.md",
     "USC/ITP 359/1. Review of Neural Networks.md",
     "USC/CSCI 430",
-    "ML in Finance/Guided Tour of Machine Learning in Finance/1. Artificial Intelligence and Machine Learning.md",
     "USC/ITP 359",
     "USC/CSCI 201",
     "Pasted image 20240403010300.png",
