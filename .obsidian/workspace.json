@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USC/CSCI 430/DNS.md",
+                "file": "USC/CSCI 430/HW3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNS"
+              "title": "HW3"
             }
           }
         ]
@@ -213,8 +213,9 @@
   },
   "active": "c7b508307f3427c8",
   "lastOpenFiles": [
-    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 4 - On Forecasts.md",
+    "USC/CSCI 430/HW2.md",
     "USC/CSCI 430/DNS.md",
+    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 4 - On Forecasts.md",
     "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 2 - On Greed.md",
     "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 1 - On Risk.md",
     "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 3 - On Hope.md",
@@ -242,7 +243,6 @@
     "USC/ECON 357",
     "USC/CSCI 430/MT2",
     "USC/VanEck.md",
-    "USC/CSCI 430/HW2.md",
     "USC/CSCI 430/MT2/IP Spoofing.md",
     "Web3/Aptos.md",
     "USC/ITP 359/4. Autoencoder.md",
