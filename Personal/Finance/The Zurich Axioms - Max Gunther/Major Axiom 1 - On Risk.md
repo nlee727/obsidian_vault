@@ -6,7 +6,7 @@ Escaping worry is paramount. Most people grasp at security as though it were the
 ### Income as Support
 The economic structure of the world is rigged against you (wage and income cannot be the main pillar of support unless it means getting through life without having to beg for food)
 - Frank Henry's rule of thumb - Only $\frac{1}{2}$ of one's financial energies should be devoted to job income. The other half ought to go into investment and speculation.
-Of course you stand to lose. However as an ordinary tax-hounded, inflation-raddles American income-earner, what real difference does it make if you get a bit poorer while trying to get richer? An adventure is guaranteed, with the potential for gain much higher than the potential loss - **This is the game that is rigged in your favor**.
+Of course you stand to lose. However as an ordinary tax-hounded, inflation-raddled American income-earner, what real difference does it make if you get a bit poorer while trying to get richer? An adventure is guaranteed, with the potential for gain much higher than the potential loss - **This is the game that is rigged in your favor**.
 
 There is no difference between speculation and investing. Its like the difference between luncheon and lunch. You get the same sandwich - the only difference is in the impression somebody wants to make
 

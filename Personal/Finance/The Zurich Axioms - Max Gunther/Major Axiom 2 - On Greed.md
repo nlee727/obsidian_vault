@@ -26,7 +26,7 @@ Stock speculation is subject to this on a much greater degree than something lik
 ## Minor Axiom 3 - Decide in advance what gain you want from a venture, and when you get it, get out
 As speculation succeeds and your wealth grows, every new position feels like a starting position. Wins are taken for granted, feeling as though you have always had this much wealth.
 - Because of this you are going to have a hard time extricating yourself from the venture.
-Most of the time, you will be required to call your own endings, which is very hard to do. AN ending is a time when you withdraw and briefly relax. Make the end feel like one instead of a new starting position. 
+Most of the time, you will be required to call your own endings, which is very hard to do. An ending is a time when you withdraw and briefly relax. Make the end feel like one instead of a new starting position. 
 - Reinforce the ending feeling by rigging some kind of reward for yourself, taking some winning and buying yourself x,y,z.
 - Investment capital is money just like any other, while there are certainly reasons for sitting on it, skimming off the top especially at ending positions is a better idea than generally credited.
 

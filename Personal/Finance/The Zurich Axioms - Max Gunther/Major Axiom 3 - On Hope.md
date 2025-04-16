@@ -13,7 +13,7 @@ Important to note when it *starts* to sink. Hoping and praying are not good, rat
 ## Minor Axiom 4 - Accept small losses cheerfully as a fast of life. Expect to experience several while awaiting a large gain
 The fact of the matter is if you habitually cut your losses small, you aren't likely to ever be badly hurt. Think of it as all part of earning a living like taxes and bills. 
 
-When it comes to stop-losses, instead depend on your own capacity to reach hard decisions and follow them through.
+When it comes to stop-losses, they could be useful but instead depend on your own capacity to reach hard decisions and follow them through.
 
 ### Speculative Strategy
 Don't wait around when trouble shows itself, instead get away promptly. Hope and prayer are not tools of speculative operation. Look at the 3 obstacles and overcome them one way or another. There is no advice as to how these obstacles should be overcome, that is something individual. Learning to take losses is one of the most essential techniques.
