@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USC/CSCI 430/HW3.md",
+                "file": "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 5 - On Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HW3"
+              "title": "Major Axiom 5 - On Patterns"
             }
           }
         ]
@@ -213,12 +213,14 @@
   },
   "active": "c7b508307f3427c8",
   "lastOpenFiles": [
+    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 4 - On Forecasts.md",
+    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 1 - On Risk.md",
+    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 2 - On Greed.md",
+    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 3 - On Hope.md",
+    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 5 - On Patterns.md",
+    "USC/CSCI 430/HW3.md",
     "USC/CSCI 430/HW2.md",
     "USC/CSCI 430/DNS.md",
-    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 4 - On Forecasts.md",
-    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 2 - On Greed.md",
-    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 1 - On Risk.md",
-    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 3 - On Hope.md",
     "LaTeX Practice.md",
     "USC/ECON 357/Chapter 15.md",
     "Personal/Book Reading List.md",
@@ -230,7 +232,6 @@
     "Weightlifting/Ratios/Clean & Jerk Ratios.md",
     "USC/CSCI 430/7. Denial of Service.md",
     "Personal",
-    "USC/CSCI 430/HW3.md",
     "USC/ITP 359/Lecture 9 - GAN.md",
     "USC/CSCI 430/Passwords.md",
     "USC/DRP/Derivations.md",
@@ -245,7 +246,6 @@
     "USC/VanEck.md",
     "USC/CSCI 430/MT2/IP Spoofing.md",
     "Web3/Aptos.md",
-    "USC/ITP 359/4. Autoencoder.md",
     "USC/CSCI 430",
     "USC/ITP 359",
     "USC/CSCI 201",
