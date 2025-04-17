@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USC/CSCI 430/BGP Security.md",
+                "file": "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 8 - On Religion and the Occult.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BGP Security"
+              "title": "Major Axiom 8 - On Religion and the Occult"
             }
           }
         ]
@@ -213,15 +213,18 @@
   },
   "active": "c7b508307f3427c8",
   "lastOpenFiles": [
+    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 1 - On Risk.md",
     "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 8 - On Religion and the Occult.md",
-    "USC/CSCI 430/BGP Security.md",
-    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 3 - On Hope.md",
-    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 4 - On Forecasts.md",
+    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 9 -.md",
     "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 5 - On Patterns.md",
+    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 3 - On Hope.md",
+    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 2 - On Greed.md",
+    "Markdown Keys.md",
+    "Pasted image 20240220111402.png",
+    "USC/CSCI 430/BGP Security.md",
+    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 4 - On Forecasts.md",
     "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 7 - On Intuition.md",
     "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 6 - On Mobility.md",
-    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 2 - On Greed.md",
-    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 1 - On Risk.md",
     "USC/CSCI 430/HW3.md",
     "USC/CSCI 430/HW2.md",
     "USC/CSCI 430/DNS.md",
@@ -242,8 +245,6 @@
     "USC/CSCI 430/User Authentication.md",
     "USC/CSCI 430/6. Symmetric Cryptography.md",
     "USC/CSCI 430/Asymmetric Cryptography.md",
-    "USC/CSCI 430/CTF 1.md",
-    "USC/ECON 357/Asset Management.md",
     "USC/ECON 357",
     "USC/CSCI 430/MT2",
     "USC/CSCI 430",
@@ -257,7 +258,6 @@
     "Pasted image 20240402230439.png",
     "Pasted image 20240402225302.png",
     "Pasted image 20240402225238.png",
-    "Pasted image 20240402222635.png",
-    "Pasted image 20240220121149.png"
+    "Pasted image 20240402222635.png"
   ]
 }
