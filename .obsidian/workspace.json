@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 8 - On Religion and the Occult.md",
+                "file": "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 11 - On Stubbornness.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Major Axiom 8 - On Religion and the Occult"
+              "title": "Major Axiom 11 - On Stubbornness"
             }
           }
         ]
@@ -213,18 +213,20 @@
   },
   "active": "c7b508307f3427c8",
   "lastOpenFiles": [
+    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 10 - On Consensus.md",
+    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 11 - On Stubbornness.md",
+    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 9 - On Optimism and Pessimism.md",
     "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 1 - On Risk.md",
-    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 8 - On Religion and the Occult.md",
-    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 9 -.md",
-    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 5 - On Patterns.md",
-    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 3 - On Hope.md",
     "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 2 - On Greed.md",
+    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 3 - On Hope.md",
+    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 4 - On Forecasts.md",
+    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 5 - On Patterns.md",
+    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 6 - On Mobility.md",
+    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 7 - On Intuition.md",
+    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 8 - On Religion and the Occult.md",
     "Markdown Keys.md",
     "Pasted image 20240220111402.png",
     "USC/CSCI 430/BGP Security.md",
-    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 4 - On Forecasts.md",
-    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 7 - On Intuition.md",
-    "Personal/Finance/The Zurich Axioms - Max Gunther/Major Axiom 6 - On Mobility.md",
     "USC/CSCI 430/HW3.md",
     "USC/CSCI 430/HW2.md",
     "USC/CSCI 430/DNS.md",
@@ -243,8 +245,6 @@
     "USC/CSCI 430/Passwords.md",
     "USC/DRP/Derivations.md",
     "USC/CSCI 430/User Authentication.md",
-    "USC/CSCI 430/6. Symmetric Cryptography.md",
-    "USC/CSCI 430/Asymmetric Cryptography.md",
     "USC/ECON 357",
     "USC/CSCI 430/MT2",
     "USC/CSCI 430",
