@@ -1,3 +1,4 @@
+#finance #mindset
 *Disregard the majority opinion. It is probably wrong*
 ### Rene Descartes
 The world's best doubter, refusing to believe anything until he had verified it for himself, making him a successful gambler-speculator.
