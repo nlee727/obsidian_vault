@@ -9,3 +9,11 @@ We face the time-inconsistency problem - when we have a long term goal that is i
 3. Stability of financial markets
 4. Interest-rate stability
 5. Stability in foreign exchange markets
+### Should Price Stability be the main goal?
+- Central banks with hierarchical mandates have an inflation target, put price stability first.
+- Dual Mandates are aimed to achieve two coequal objectives: price stability and maximum employment (output stability)
+## Inflation Targeting
+- Institutional commitment to price stability following a public announcement, creating some accountability.
+- Creates transparency of strategy
+- 
+
