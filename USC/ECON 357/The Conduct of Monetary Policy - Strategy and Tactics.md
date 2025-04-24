@@ -13,7 +13,13 @@ We face the time-inconsistency problem - when we have a long term goal that is i
 - Central banks with hierarchical mandates have an inflation target, put price stability first.
 - Dual Mandates are aimed to achieve two coequal objectives: price stability and maximum employment (output stability)
 ## Inflation Targeting
-- Institutional commitment to price stability following a public announcement, creating some accountability.
+- Institutional commitment to price stability following a public announcement, creating some accountability. Removes pressure from the central bank, historically improved performances
 - Creates transparency of strategy
-- 
+- Reduces the time-inconsistency problem
+##### Disadvantages
+- Many countries have not been able to hit the target inflation
+- Rigidity can be potentially solved with an intermediate rate causing too much fluctuation for output.
+- Short term pain for long term gain
+## Fed Just do it approach
+Low and stable inflation, maximum employment
 
