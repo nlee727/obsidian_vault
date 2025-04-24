@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USC/MATH 447/Support Vector.md",
+                "file": "USC/CSCI 430/BGP Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Support Vector"
+              "title": "BGP Security"
             }
           }
         ]
@@ -213,8 +213,8 @@
   },
   "active": "c7b508307f3427c8",
   "lastOpenFiles": [
-    "USC/DRP/Derivations.md",
     "USC/MATH 447/Support Vector.md",
+    "USC/DRP/Derivations.md",
     "USC/MATH 447",
     "Personal/Finance/Fixed Income Securities - Tuckman and Serrat/0. Overview.md",
     "USC/ECON 357/The Conduct of Monetary Policy - Strategy and Tactics.md",
