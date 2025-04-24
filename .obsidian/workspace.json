@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USC/CSCI 430/BGP Security.md",
+                "file": "Personal/Finance/Fixed Income Securities - Tuckman and Serrat/0. Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BGP Security"
+              "title": "0. Overview"
             }
           }
         ]
@@ -213,6 +213,7 @@
   },
   "active": "c7b508307f3427c8",
   "lastOpenFiles": [
+    "USC/CSCI 430/BGP Security.md",
     "USC/MATH 447/Support Vector.md",
     "USC/DRP/Derivations.md",
     "USC/MATH 447",
@@ -239,7 +240,6 @@
     "Personal/Finance/The Zurich Axioms - Max Gunther/11. On Stubbornness.md",
     "Markdown Keys.md",
     "Pasted image 20240220111402.png",
-    "USC/CSCI 430/BGP Security.md",
     "USC/CSCI 430/HW3.md",
     "USC/CSCI 430/HW2.md",
     "USC/CSCI 430/DNS.md",
