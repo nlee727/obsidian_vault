@@ -38,3 +38,4 @@ $$
 $$
 =\min_{w}\max_{\alpha \in R^m, \alpha \geq 0}(\lambda||w||^2+\sum\alpha_{i}(1-y_{i }<w, x_{i}>)) \geq \max
 $$
+
