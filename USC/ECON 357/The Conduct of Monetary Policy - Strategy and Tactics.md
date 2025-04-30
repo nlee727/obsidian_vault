@@ -62,4 +62,18 @@ Controllability - Does not have absolute control over reserve because of the mov
 - How effective are these on monetary policy? We now target the federal funds rate
 ## Tactics: Taylor Rule
 We have decided that we want to target FF rate. We must answer what that rate must be.
+Federal funds rate target = inflation rate + equilibrium real fed funds rate + 1/2(inflation gap) + 1/2(output gap)
 
+$$
+i_{ff}=\pi+2+\frac{1}{2}(\pi-\pi^T)+\frac{1}{2}(y-y^P)
+$$
+1% increase in inflation -> increase fed funds by 1.5%. Increasing the real rate to decrease the level of borrowing and spending, decreasing demand and decreasing inflation.
+- To tell whether unemployment is high or low, compare it to the natural level of unemployment. inverse relationship between unemployment and output.
+
+#### NAIRU - natural rate of unemployment
+- where labor market will not have an effect on inflation
+- When unemployment is high, workers have less bargaining power and their wages go down meaning inflation goes down
+### Reasons to deviate from taylor rule
+1. Big lag from when monetary policy is implemented and when it becomes effective, so the fed funds needs to be more forward looking
+2. We dont exactly know what the natural rate of unemployment is and potential output. Monetary policy is hard when the unemployment rate is close to the natural rate
+3. Policy makers may put a higher priority on unemployment or inflation at specific times.
