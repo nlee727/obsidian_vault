@@ -25,12 +25,14 @@
             "id": "e4e0de12a7501271",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "USC/MATH 447/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],

@@ -53,3 +53,43 @@ $$
 < \psi (x), \psi (x')> = e^{-\frac{|x-x'|^2}{2}}=k(x,x')
 $$
 Is a kernel (Gaussian Kernel, RBF)
+
+#### Gaussian Kernel
+$$
+K(\vec{x},\vec{x}')=e^{-||\vec{x}-\vec{x}'||^2/2\sigma}
+$$
+##### Problem
+$$
+\min f(<w,\psi(x_{1})>, <w,\psi(x_{2})>\dots<w,\psi(x_{m})+R(||w||)), \text{ R is non decreasing on }[0,\infty)
+$$
+Soft SVM $R(a)=\lambda a^2$
+$$
+f(a_{1},a_{2},\dots,a_{m})=\frac{1}{m}\sum \max\{0,1-y_{i},a_{i}\}
+$$
+Hard SVM $R()=()^2$
+$$
+f(a_{1},a_{2},\dots,a_{m})=0, \exists b:y_{i}<a_{i}+b> \geq 1 \forall i ,\infty \text{ otherwise}
+$$
+Penalize with infinity so that it cannot be minimized
+
+Thm (Representer Thm) There is a solution to $\min f(<w,\psi(x_{1})>, <w,\psi(x_{2})>\dots<w,\psi(x_{m})+R(||w||)), \text{ R is non decreasing on }[0,\infty)$ in the form 
+$$
+(!) \cdot w = \sum_{i=1}^m \alpha_{i}\psi(\bar{x}_{i})
+$$
+Linear combination of Hilbert space
+Hilbert Space 
+H - vector space with an inner product
+
+The structure of F(w) is such that you can always find a solution in the previous form.
+
+The problem is equivalent to 
+$$
+\min_{\alpha}f\left( \sum_{i=1}^m \alpha_{i} < \psi(\bar{x_{i}}),\psi(\bar{x_{1}})>,\sum_{i=1}^m \alpha_{i} < \psi(\bar{x_{i}}),\psi(\bar{x_{2}})>,\dots\right)+R\left( \sqrt{ \sum \alpha_{i}\alpha_{j}<\psi(\bar{x_{i}}) ,\psi(\bar{x_{j}})>} \right)
+$$
+$$
+ < \psi(\bar{x_{i}}),\psi(\bar{x_{1}})> = K(\bar{x_{i}},\bar{x_{1}})
+$$
+$$
+ < \psi(\bar{x_{i}}),\psi(\bar{x_{j}})> = K(\bar{x_{i}},\bar{x_{j}})
+$$
+We don't know what the mapping $\psi$ is, we only need the dot product given by the kernel. The kernel is fixed and implicitly defines a mapping and feature space.
