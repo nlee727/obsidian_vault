@@ -117,5 +117,14 @@ Interest rate stability, stability of markets, exchange rate stability all relat
 What are the benefits/tradeoffs for inflation targeting (dual mandate)
 Should the fed identify bubbles
 
-Monetary 
+Monetary Aggregates (the fed cannot control both at the same time) since demand is constantly moving back and fourth
+
+Taylor rule - not completely following because of lag and forward looking
 ## Chapter 17
+The only thing you are responsible for is 
+The effect on long term exchange rate given purchasing power parity (preferences, tariffs, productivity, anything that changes relative price level)
+
+Have an idea of purchasing power parity and the effect of each of the rows with exchange rate
+- Up to slide 7
+- If price level decreases in a country, the currency appreciates
+- Markets in equilibrium (no arbitrage/ incentive to buy in one place and sell in another)
