@@ -93,3 +93,66 @@ $$
  < \psi(\bar{x_{i}}),\psi(\bar{x_{j}})> = K(\bar{x_{i}},\bar{x_{j}})
 $$
 We don't know what the mapping $\psi$ is, we only need the dot product given by the kernel. The kernel is fixed and implicitly defines a mapping and feature space.
+
+## 5/2/25
+Given $K: X \times X\to R$
+When is K a kernel?
+When is there a F (Hilbert Space) and a mapping $X \to \mathcal{F}$ such that $K(x,y) = <\psi(x),\psi(y)>_{\mathcal{F}}$
+
+Thm: K is a valid kernel $\iff$ it is symmetric $K(x,y)=K(y,x)$, and PSD $\forall\{x_{1},\dots,x_{m} \}$, the matrix $G_{ij}=K(x_{i},x_{j})$ is positive semi-definite ($G_{ij}\alpha^i\alpha^j \geq 0 \quad \forall \vec{\alpha}$)
+Proof:
+Start with $R^X=\{f:X\to R\}$
+Given $x \in X, \psi(x)(\xi)=K(\xi ,x)$
+$\mathcal{F}=\text{span of }\{K(\xi ,x)\}$ is a vector space
+We have to define the inner product structure
+Take two linear combinations of F
+$$
+<\sum\alpha_{i}K(\xi ,x_{i}),\sum\beta_{j}K(\xi,x_{j})>_{F}
+$$
+Check
+1) $K(X,X')= <\psi(x),\psi (x')>_{F}$
+2) $<\quad , \quad>_{F}$ is indeed an inner product
+
+You know there is some $\psi$ and some $F$. However if you know the kernel, thats all you need to implement SVM with kernels
+#### SGD for Soft SVM with kernels
+##### No kernels
+$\theta^{(1)}=\vec{0}$
+For $t=1,\dots T$
+1) $w^{(t)}=\frac{1}{\lambda t}\theta^{(t)}$
+Choose $i \sim Uniform[m]$
+    If $y_{i}<w^{(t)},x_{i}> < 1$
+        $\theta^{(t+1)}=\theta^{(t)}+y_{i}x_{i}$
+    Else:
+        $\theta^{(t+1)}=\theta^{(t)}$
+Output $\vec{w}=\frac{1}{T}\sum_{t=1}^T w^{(t)}$
+
+##### Using kernels:
+$x_{i}\to \psi(x_{i})$
+$\theta$ was a linear combination of $x_{i}$. 
+$$
+\theta^{(t)}=\sum_{j=1}^m \beta_{j}^{(t)}\psi(x_{j})
+$$
+W is proportional to $\theta$, so it is also a linear combination
+$$
+w^{(t)}=\sum \alpha_{j}^{(t)}\psi(x_{j})
+$$
+1) $\alpha^{(t)}=\frac{1}{\lambda t} \beta^{(t)}$
+Choose $i \sim Uniform[m]$
+If $y_{i} \sum\alpha_{i}^{(t)} K(\vec{x_{j}}, \vec{x_{i}})<1$
+    $\beta^{(t+1)}_{i}=\beta_{i}^{(t)}+y_{i}, \quad \beta_{j}^{(t+1)}=\beta_{j}^{(t)},j \neq i$ (we don't need $x_{i}$ because we are not looking at $\theta$ itself) 
+Else:
+    $\beta^{(t+1)}=\beta^{(t)}$
+Output: $\bar{\alpha}=\frac{1}{T}\sum_{t=1}^T\alpha^{(t)}$
+    $\bar{w}=\sum \bar{\alpha}_{j}\psi(x_{j)}$ (this would be the w but you dont need this, you only need the dot product to make predictions)
+Prediction:
+    For $\vec{x} \in X:$
+    $$
+<\bar{w}, \psi(x) > = <\sum \bar{\alpha}_{j}\psi(\bar{x}_{j}), \psi(x)> = 
+$$
+$$
+\sum \bar{\alpha_{j}} <\psi(\bar{x}_{j}),\psi(x)=
+$$
+$$
+\sum \bar{\alpha}_{j}K(\bar{x_{j}},\bar{x})
+$$
+You don't care about w, you care about the dot product/prediction (positive or negative)
