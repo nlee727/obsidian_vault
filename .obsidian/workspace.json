@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c7b508307f3427c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "USC/ECON 357/The foreign exchange market.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The foreign exchange market"
-            }
-          },
-          {
-            "id": "e4e0de12a7501271",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "USC/ECON 357/The Conduct of Monetary Policy - Strategy and Tactics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Conduct of Monetary Policy - Strategy and Tactics"
-            }
-          },
-          {
             "id": "431c035287ad8fa1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "USC/CSCI 467/Introduction.md",
+                "file": "USC/TAC 459/Class 1 - Intro to NLP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "Class 1 - Intro to NLP"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,7 +214,11 @@
   },
   "active": "431c035287ad8fa1",
   "lastOpenFiles": [
+    "USC/ECON 357/The Conduct of Monetary Policy - Strategy and Tactics.md",
+    "USC/ECON 357/The foreign exchange market.md",
+    "USC/TAC 459/Class 1 - Intro to NLP.md",
     "USC/CSCI 467/Introduction.md",
+    "USC/TAC 459",
     "USC/CSCI 467",
     "USC/ECON 357/Final Review.md",
     "USC/ECON 357/Tools of Monetary Policy.md",
@@ -253,8 +228,6 @@
     "USC/ECON 357/Asset Management.md",
     "USC/CSCI 430/BGP Security.md",
     "USC/ECON 357/Untitled.md",
-    "USC/ECON 357/The foreign exchange market.md",
-    "USC/ECON 357/The Conduct of Monetary Policy - Strategy and Tactics.md",
     "USC/ITP 359/Untitled.md",
     "Pasted image 20250427131037.png",
     "Pasted image 20250427130048.png",
@@ -275,7 +248,6 @@
     "Personal/Finance/The Zurich Axioms - Max Gunther/5. On Patterns.md",
     "Personal/Finance/The Zurich Axioms - Max Gunther/4. On Forecasts.md",
     "Personal/Finance/The Zurich Axioms - Max Gunther/3. On Hope.md",
-    "Personal/Finance/The Zurich Axioms - Max Gunther/2. On Greed.md",
     "Pasted image 20240220111402.png",
     "Personal/Finance/The Zurich Axioms/Untitled",
     "Personal/Finance/The Zurich Axioms - Max Gunther",
@@ -283,7 +255,6 @@
     "Personal/Finance",
     "Personal",
     "USC/ECON 357",
-    "USC/CSCI 430/MT2",
     "Pasted image 20240403010300.png",
     "Pasted image 20240403000746.png",
     "Pasted image 20240402234913.png",
