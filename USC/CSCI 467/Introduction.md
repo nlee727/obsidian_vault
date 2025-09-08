@@ -16,3 +16,6 @@ Training is expensive, but predictions are cheap since its a tree, vice versa fo
 
 34/41
 As you traverse and build the tree, number of features decreases and eventually will terminate
+
+9/3/25
+Gini Impurity implemented to reduce cost of entropy and calculating logs, called CART.
