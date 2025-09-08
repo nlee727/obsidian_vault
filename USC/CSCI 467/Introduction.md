@@ -19,3 +19,8 @@ As you traverse and build the tree, number of features decreases and eventually 
 
 9/3/25
 Gini Impurity implemented to reduce cost of entropy and calculating logs, called CART.
+
+9/8/25
+## Boosting
+Sequence of machine learning algorithms in such a way that one helps the next. 
+- Don't need on a neural network, more on weak algorithms to boost accuracy
