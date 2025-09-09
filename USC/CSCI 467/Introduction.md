@@ -24,3 +24,26 @@ Gini Impurity implemented to reduce cost of entropy and calculating logs, called
 ## Boosting
 Sequence of machine learning algorithms in such a way that one helps the next. 
 - Don't need on a neural network, more on weak algorithms to boost accuracy
+
+### Problem 2
+$$
+h_{1}=sign(x-3.5)
+$$
+$$
+D_{1}=\frac{1}{8}
+$$
+$$
+\epsilon_{1}=\frac{1}{8},\beta_{1}=\frac{1}{2}\ln\left( \frac{1-\epsilon_{1}}{\epsilon_{1}} \right)=\frac{1}{2}\ln(7)
+$$
+recalculate weights
+$$
+D_{2}^{\text{err}}=D_{1} \cdot \exp(\beta_{1})=\frac{1}{8}\sqrt{ 7 }
+$$
+$$
+D_{2}^{\text{cor}}=D_{1} \cdot \exp(-\beta_{1}) = \frac{1}{8}\frac{{ 1 }}{\sqrt{ 7 }}
+$$
+normalization
+now point 8 has weight $\frac{1}{2}$ and everything else has weight $\frac{1}{14}$
+$$
+D_{2}=
+$$
