@@ -47,3 +47,4 @@ now point 8 has weight $\frac{1}{2}$ and everything else has weight $\frac{1}{14
 $$
 D_{2}=
 $$
+How do you pass knowledge from one classifier to the next? The training weight so that the next classifier will try to classify the harder points.
