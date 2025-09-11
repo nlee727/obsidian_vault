@@ -48,3 +48,14 @@ $$
 D_{2}=
 $$
 How do you pass knowledge from one classifier to the next? The training weight so that the next classifier will try to classify the harder points.
+
+
+Sep 10
+16/34
+Adaboost requires a pool of classifiers, if its less than 50% it will pose a huge problem
+
+T (Look at slide 4 and beta)
+F (Less than 50% accuracy and beta will be negative so things will be flipped)
+F ()
+F (Always going to go weight 1/2)
+F ()
