@@ -45,4 +45,4 @@ Suppose $\{p_{n}\}$ is a sequence in a metric space $(X,d)$.
 a) $\{p_{n}\}$ converges to $p \in X$ iff every neighborhood of $p$ contains all but finitely many $p_{n}$
 b) If $p \in X$ (Limit points are unique)
 c) If $\{p_{n}\}$ converges, then $\{p_{n}\}$ is bounded.
-d) If $E sib\{  \}$
+d) If $E sibse$
