@@ -39,12 +39,14 @@
             "id": "8061a858eb4c5744",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "USC/MATH 425A/Lecture 16 Oct 6.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "Lecture 16 Oct 6"
             }
           }
         ],
@@ -241,8 +243,9 @@
   },
   "active": "8061a858eb4c5744",
   "lastOpenFiles": [
-    "USC/CSCI 467/Lecture 10 Sept 29.md",
     "USC/MATH 425A/Lecture 15 Oct 1.md",
+    "USC/MATH 425A/Lecture 16 Oct 6.md",
+    "USC/CSCI 467/Lecture 10 Sept 29.md",
     "USC/MATH 425A/Lecture 14 Sept 29.md",
     "USC/MATH 425A/Lecture 13 Sept 24.md",
     "USC/MATH 425A/MT1 Review.md",
@@ -278,7 +281,6 @@
     "Personal/Finance/Fixed Income Securities - Tuckman and Serrat/0. Overview/0.1 - Global Fixed Income Markets.md",
     "Personal/Finance/Fixed Income Securities - Tuckman and Serrat/0. Overview",
     "Personal/Finance/Fixed Income Securities - Tuckman and Serrat/0..md",
-    "Personal/Finance/The Zurich Axioms - Max Gunther/9. Optimism and Pessimism.md",
     "Pasted image 20240220111402.png",
     "Personal/Finance/The Zurich Axioms/Untitled",
     "Personal/Finance/The Zurich Axioms - Max Gunther",
