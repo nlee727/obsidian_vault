@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Lecture 15 Oct 1"
             }
+          },
+          {
+            "id": "8061a858eb4c5744",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -227,7 +239,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "61ead3d86da03f42",
+  "active": "8061a858eb4c5744",
   "lastOpenFiles": [
     "USC/CSCI 467/Lecture 10 Sept 29.md",
     "USC/MATH 425A/Lecture 15 Oct 1.md",
