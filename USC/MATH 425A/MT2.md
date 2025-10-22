@@ -1,0 +1,1 @@
+Know p-series proof, look at proof of thm 3.29
