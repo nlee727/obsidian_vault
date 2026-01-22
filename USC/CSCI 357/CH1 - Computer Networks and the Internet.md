@@ -90,6 +90,33 @@ $$
     - Two insulated copper wires
     - Instead of having a perfect shielding of every conductor, it twists to shield the data
     - Copper is subject to alpha particle corruption, not fiber
-
+    
+watch lecture 1/22
 ## Network Core
 A mesh of interconnected routers
+- Packet-switching: host break application-layer messages into packets
+    - Forward packets
+
+### Packet-switching: Store and Forward
+Store and forward: Wait for the entire packet to arrive, then the router decides the order of packets to be sent
+
+- End to end delay $\frac{2L}{R}$ assuming zero propagation delay inside the router
+
+### Packet-switching: Queueing Delay, Loss
+All data stored in the router, who decides which one to send
+- Soon, the buffer will fill up
+- Assume FIFO for packets
+    - Any given packet has to wait for all the rest of the packets 
+    - Queueing Delay $\text{Number of packets} \times \frac{\text{L}}{\text{R}}$
+    - Difficult to predict
+- If the router buffer is full, new packets will be dropped (lost)
+
+### Two Key Network Core Functions
+- Routing: Determines source-destination route taken by packets
+    - Runs Dijkstra's and builds forwarding table
+        - Table is built as a result of the algorithm 
+        - Done on the order of seconds/ms
+    - Look at table header and decide where to send that packet to
+- Forwarding: move packets from router's input to appropriate router output
+    - Done on the order of ms/ns
+- 
