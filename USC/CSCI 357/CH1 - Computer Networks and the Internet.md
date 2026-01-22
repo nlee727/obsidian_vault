@@ -26,3 +26,70 @@ Infrastructure that provides services to applications
 Specific message sent, specific actions taken when the message is received
 - Define format, order of messages send and received among network entities, actions taken on message transmission, receipt
 
+## 1.2 The Network Edge
+- Two parts of the internet: the network core (ISPs like routers), and network edge (Hosts like clients and servers
+- Hosts: clients and servers
+
+- Have to keep in mind bandwidth, and shared or dedicated connection
+### Access Network: Digital Subscriber Line (DSL)
+Connecting through telephone network (DSL modem)
+- ADSL same thing except download/upload speed are different
+    - Usually upload is 10x slower
+
+Combined with telephone data and send together, split at the server
+- Low frequency data (telephone)
+- High frequency (internet)
+
+### Access Network: Cable Network
+Multiple houses tapped into one cable network that was split and put underground
+- At home, you have a receiver that can be tuned to different frequencies to get different channels
+    - Frequency Division Multiplexing
+
+### Access Network: Home Network
+Cable or DSL modem connects to a router which connects to a wireless access point (usually combined into one)
+
+### Access Network: Enterprise Network (Ethernet)
+Routers use dijkstras algorithm, which needs a lot of router (more expensive)
+- The use of ethernet switches
+
+### Access Network: Wireless Network
+Shared wireless access network connects end system to router via base station (access point)
+
+Wireless LAN:
+- Within building e.g. 100 ft
+- Uses repeaters for wider coverage
+- 450 mbps 
+Wide-area wireless access
+- Provided by telco (cellular)
+- Operate with 10km 
+- Slower than wireless LAN (1-10mbps)
+
+### Host: Sends Packets of Data
+- Host sending function takes application message
+    - Stream of bytes that are broken down into packets (a few kilobytes), of length *L* bits
+    - Receiver assembles the packets into full message
+
+- Transmits packet into access network at transmission rate $R$.
+    - Link transmission rate, link capacity, link bandwidth
+
+How long to send a packet? 
+- Transmission delay (for the packet to leave the device)
+$$
+\frac{\text{L (bits)}}{\text{R(bits/sec)}}
+$$
+- Different than propagation delay (affected by medium, distance)
+
+### Physical Media
+- Bit: what propagates between transmitter/receiver pairs
+    - Information theory (0 or 1), Physical Bit (1)
+- Physical link: what lies between transmitter and receiver
+- Guided Media: copper, fiber, coax
+- Unguided media:
+    - Signals propagate freely e.g. radio
+- Twisted pair (TP)
+    - Two insulated copper wires
+    - Instead of having a perfect shielding of every conductor, it twists to shield the data
+    - Copper is subject to alpha particle corruption, not fiber
+
+## Network Core
+A mesh of interconnected routers
