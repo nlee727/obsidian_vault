@@ -119,4 +119,16 @@ All data stored in the router, who decides which one to send
     - Look at table header and decide where to send that packet to
 - Forwarding: move packets from router's input to appropriate router output
     - Done on the order of ms/ns
-- 
+
+### Alternative Core: Circuit Switching
+- End-to-end resources allocated to, reserved for "call" between source and destination
+- A and B end up physically connected through the routers
+    - Dedicated resources with the duration of the call, no sharing
+    - Used in traditional telephone networks, not as efficient since the resources are taken up, even if people are not talking
+    - Advantage is you get circuit-like (guaranteed) performance
+
+## Packet Switching vs Circuit Switching
+- Allows more users to use the network
+#### Probability of Queueing Example
+- To show packet switching has advantage over circuit switching
+- Each user is active 10% of the time
