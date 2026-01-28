@@ -132,3 +132,12 @@ All data stored in the router, who decides which one to send
 #### Probability of Queueing Example
 - To show packet switching has advantage over circuit switching
 - Each user is active 10% of the time
+
+watch lecture 1/27
+
+## Four Sources of Packet Delay
+- Nodal processing
+    - Check bit errors, determining output link, less than a ms
+- Queueing delay
+    - Time waiting in output buffer for transmission, depends on how long the line is
+- 
